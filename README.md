@@ -11,8 +11,6 @@ Este projeto é apenas uma demonstração.
 NUNCA CONSUMA PLANTAS OU FLORES SEM ANTES SER VERIFICADO POR UM PROFISSIONAL OU ESPECIALISTA NA ÁREA!
 
 
-
-
 ## Como utlizar
  ✔️ Acesse o este [link](https://colab.research.google.com/github/xarutoloko10/Projeto_Imersao_Alura/blob/main/Analisador_de_Plantas_Comestiveis.ipynb)
  
@@ -26,7 +24,7 @@ NUNCA CONSUMA PLANTAS OU FLORES SEM ANTES SER VERIFICADO POR UM PROFISSIONAL OU 
  
  ✔️ Clica na setinha de upload de arquivo mostrada no menu acima, ou arraste a imagem / foto de planta que você quer analisar
  
- ✔️ Clique no botão (play) para rodar o código
+ ✔️ Clique no botão (▶️) para rodar o código
  
  ✔️ Na pastinha onde você subiu sua imagem, clique no 3 pontinhos e clice em *Copiar Caminho*
  
